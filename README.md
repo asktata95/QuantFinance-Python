@@ -15,6 +15,7 @@ A good model for estimating Value at Risk (VaR) should have several key characte
 These characteristics ensure that the VaR model is not only theoretically sound but also practical and effective in real-world risk management applications.
 
 We will use the following models to estimate VaR, grouped into three main categories:
+
 a. Parametric Models - This approach assume that the returns follow a particular underlying distribution and the VaR is calculated using various approaches: 
                         1. Standard Deviation - A basic measure of volatility
                         2. Exponetially Weighted Moving Average (EWMA) - A volatility model that gives higher weights to recent observations
