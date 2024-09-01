@@ -17,6 +17,7 @@ These characteristics ensure that the VaR model is not only theoretically sound 
 We will use the following models to estimate VaR, grouped into three main categories:
 
 a. Parametric Models - This approach assume that the returns follow a particular underlying distribution and the VaR is calculated using various approaches: 
+
                         1. Standard Deviation - A basic measure of volatility
                         2. Exponetially Weighted Moving Average (EWMA) - A volatility model that gives higher weights to recent observations
                         3. GARCH Models - GARCH with Normal Distribution (no leverage), GARCH with Generalized Error Distribution (GED and no leverage), GJR-GARCH with Normal Distribution (leverage), GJR-GARCH
